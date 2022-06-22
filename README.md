@@ -1,4 +1,4 @@
-# SFv2
+# SFv2 - Maintenance
 Snack Finance - Farm &amp; Swap Front
 
 Decentralized Swap Exchange is a Finance project created to launch Farm infrastructures, DApp programs. It aims to be one of the leading DEFi projects thanks to its new generation features. Users can borrow for peer-to-peer farms or take out a Snack Finance loan. It provides high profit returns for high leverage farms.
